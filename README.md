@@ -1,2 +1,2 @@
 # STATS501-Final-Project
-Statistics 501 final project 
+Repository for Statistics 501 final project 
